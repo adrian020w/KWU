@@ -21,7 +21,7 @@ export default function TentangKami() {
               <h2 className="text-3xl font-bold text-foreground mb-6">Siapa Kami?</h2>
               <p className="text-foreground/70 leading-relaxed mb-4">
                 Pegel Pedia adalah layanan pijat profesional yang didirikan dengan visi untuk memberikan solusi
-                kesehatan dan relaksasi bagi masyarakat. Kami percaya bahwa kesehatan adalah investasi terbaik.
+                kesehatan dan relaksasi bagi mahasiswa. Kami percaya bahwa kesehatan adalah investasi terbaik.
               </p>
               <p className="text-foreground/70 leading-relaxed">
                 Dengan tim terapis berpengalaman dan fasilitas modern, kami berkomitmen untuk memberikan pengalaman
@@ -42,7 +42,7 @@ export default function TentangKami() {
               <h3 className="text-2xl font-bold text-primary mb-4">Visi Kami</h3>
               <p className="text-foreground/70 leading-relaxed">
                 Menjadi layanan pijat terpercaya dan terdepan yang memberikan solusi kesehatan holistik untuk
-                meningkatkan kualitas hidup masyarakat.
+                meningkatkan kualitas hidup mahasiswa.
               </p>
             </div>
             <div className="bg-white rounded-xl p-8 shadow-md border border-border">

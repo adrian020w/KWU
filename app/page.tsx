@@ -60,7 +60,7 @@ export default function Home() {
               </div>
               <h3 className="text-xl font-bold mb-3 text-foreground">Terapis Profesional</h3>
               <p className="text-foreground/70 leading-relaxed">
-                Tim terapis bersertifikat dan berpengalaman lebih dari 5 tahun di bidang terapi pijat.
+                Tim terapis bersertifikat dan berpengalaman.
               </p>
             </div>
 
